@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SpinnerView</string>
+    <string name="country_prompt">Select Country</string>
+    <string name="state_prompt">Select State</string>
+
+    <string-array name="country_list">
+        <item>India</item>
+        <item>Nepal</item>
+        <item>Rus</item>
+        <item>America</item>
+        <item>Japan</item>
+
+    </string-array>
+
+
+</resources>
