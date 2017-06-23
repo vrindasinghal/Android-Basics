@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/add_menu"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="Add Contact">
+        <!-- SUB MENU -->
+        <menu>
+            <item
+                android:id="@+id/create_new"
+                android:icon="@mipmap/ic_launcher_round"
+                android:title="Create COntact" />
+            <item
+                android:id="@+id/open"
+                android:icon="@mipmap/ic_launcher_round"
+                android:title="Existing Contact" />
+        </menu>
+
+    </item>
+    <item
+        android:id="@+id/close_menu"
+        android:icon="@mipmap/ic_launcher"
+        android:title="Close" />
+</menu>
