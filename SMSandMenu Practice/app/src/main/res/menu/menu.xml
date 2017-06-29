@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/sendsms_menu"
+        android:title="Send SMS">
+    </item>
+    <item
+        android:id="@+id/Close_menu"
+        android:title="Close">
+    </item>
+</menu>
