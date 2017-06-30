@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Andriod Versions</string>
+    <string name="name_prompt">Version Name</string>
+
+    <string-array name="version_name">
+        <item>Cupcake</item>
+        <item>Doughnut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Ginger Bread</item>
+        <item>HoneyComb</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>Kit Kat</item>
+        <item>Lollypop</item>
+        <item>Marshmallow</item>
+        <item>Nougat</item>
+    </string-array>
+</resources>
