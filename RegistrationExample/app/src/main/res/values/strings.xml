@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RegistrationExample</string>
+    <string name="textView_Rollno">Roll No.:</string>
+    <string name="textView_Name">Name:</string>
+    <string name="qualification_prompt">Qualification</string>>
+    <string name="textView_mobileNo">Mobile No.:</string>
+    <string name="textView_Address">Address:</string>
+    <string name="textView_formName">Registration Form</string>
+    <string name="button_Insert">INSERT</string>
+    <string name="button_Delete">DELETE</string>
+    <string name="button_ChangePassword">CHANGE PASSWORD</string>
+    <string name="button_Get">GET</string>
+    <string name="textView_Password">Password</string>
+    <string name="enterRollNo">Enter Roll No.</string>
+    <string name="enterOldPassword">Enter Old Password</string>
+    <string name="enterNewPassword">Enter New Password</string>
+    <string name="button_change">CHANGE</string>
+    <string name="button_ok">OK</string>
+</resources>
