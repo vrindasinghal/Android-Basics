@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="textView_heading">Calculator</string>
+    <string name="textView_plusIcon">+</string>
+    <string name="textView_divIcon">/</string>
+    <string name="textView_multiIcon">*</string>
+    <string name="textView_minusIcon">-</string>
+
+</resources>
